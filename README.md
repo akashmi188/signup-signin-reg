@@ -1,1 +1,2 @@
 # signup-signin-reg
+This is a sign up,registration page,forgot password page,signin page web app in which the database is stored with the help of firestore and firebase.I have used html,css,javascript,nodejs,jquery to make the layout and it is mobile and pc responsive.In forget password page we also have recovery option,where you get the mail to update your password.The rest ca be explained in person if you want to know more.
